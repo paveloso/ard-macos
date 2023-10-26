@@ -9,7 +9,8 @@ At home your external screen sits on the right of your laption and in the office
 
 ### Limitations
 
-- Currently only two predefined profiles: Home and Office
+- Currently only two predefined profiles: **Home** and **Office**
+- Minimum macOS version: **13.5** (since Menu() is available from 11.0 and MenuBarExtra() from 13.0)
 
 ### Tested on
 
